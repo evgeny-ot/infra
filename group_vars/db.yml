@@ -1,2 +1,3 @@
 --- 
-swap_size: 1G
+swap_size: 3G
+swap_location: /swaaaaaaap

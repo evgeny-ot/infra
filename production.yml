@@ -1,5 +1,4 @@
 ---
 - hosts: db
   roles:
-    - { role: 'common' }
-    # - { role: 'hostname' }
+    - { role: 'swap_trasher' }
